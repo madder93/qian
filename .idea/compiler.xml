@@ -8,11 +8,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="base-client" />
         <module name="base-server" />
+        <module name="busi-client" />
+        <module name="busi-server" />
         <module name="web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="base" target="1.8" />
+      <module name="base-client" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
