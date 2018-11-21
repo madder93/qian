@@ -6,10 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/web/pom.xml" />
-        <option value="$PROJECT_DIR$/base-server/pom.xml" />
-        <option value="$PROJECT_DIR$/busi-server/pom.xml" />
         <option value="$PROJECT_DIR$/base-client/pom.xml" />
-        <option value="$PROJECT_DIR$/busi-client/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
