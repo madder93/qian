@@ -18,6 +18,9 @@
     <modules>
         <module>web</module>
         <module>base-client</module>
+        <module>base-server</module>
+        <module>busi-client</module>
+        <module>busi-server</module>
     </modules>
 
 </project>
